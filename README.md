@@ -15,6 +15,8 @@ Bu proje Vercel ile otomatik olarak üretim ortamına aktarılır. (TR)
 https://bmi.ferditarakci.com.tr
 <br>OR<br>
 https://bki.ferditarakci.com.tr
+<br>OR<br>
+https://body-mass-index-calculator-react.vercel.app
 
 <br>
 
