@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="theme-color" content="#da3d43">
+	<link rel="apple-touch-icon" sizes="57x57" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="512x512" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-512x512.png">
+	<link rel="icon" type="image/png" sizes="310x310" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-310x310.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="150x150" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-150x150.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-96x96.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-48x48.png">
+	<link rel="icon" type="image/png" sizes="36x36" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-36x36.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-16x16.png">
+	<link rel="manifest" href="%REACT_APP_DOMAIN%/manifest.json">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preload" as="image" href="%REACT_APP_DOMAIN%/assets/images/my.jpg">
+	<link rel="preload" as="video" href="%REACT_APP_DOMAIN%/assets/video/freelance-front-end-developer.mp4" type="video/mp4">
+
+	<title>%REACT_APP_SEO_TITLE%</title>
+	<meta name="description" content="%REACT_APP_SEO_DESCRIPTION%">
+	<meta name="keywords" content="%REACT_APP_SEO_KEYWORDS%">
+	<link rel="canonical" href="%REACT_APP_DOMAIN%">
+
+	<meta property="og:locale" content="tr_TR">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="%REACT_APP_DOMAIN%">
+	<meta property="og:site_name" content="%REACT_APP_SEO_TITLE%">
+	<meta property="og:title" content="%REACT_APP_SEO_TITLE%">
+	<meta property="og:description" content="%REACT_APP_SEO_DESCRIPTION%">
+	<meta property="og:image" content="%REACT_APP_DOMAIN%/assets/images/favicon/logo-icon.png">
+	<meta property="og:image:type" content="image/png">
+	<meta property="og:image:width" content="512">
+	<meta property="og:image:height" content="512">
+</head>
+<body>
+	<div id="root" class="app">
+		<div style="visibility: hidden">
+			<h1>%REACT_APP_SEO_TITLE%</h1>
+			<p>%REACT_APP_SEO_DESCRIPTION%</p>
+		</div>
+	</div>
+
+	<% if (process.env.NODE_ENV === 'production') { %>
+		<script src="https://www.googletagmanager.com/gtag/js?id=UA-23038491-6" async></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() { dataLayer.push(arguments) }
+			gtag('js', new Date());
+			gtag('config', 'UA-23038491-6');
+		</script>
+	<% } %>
+
+	<noscript>You need to enable JavaScript to run this app.</noscript>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+	"1": {
+		"title": "Normal",
+		"description": "Erkeklerin bel çevresinin 94cm'den küçük olması normaldir.Yeterli ve dengeli beslenerek, düzenli aktivite yaparak formunuzu korumaya özen gösterin."
+	},
+	"2": {
+		"title": "Az Riskli",
+		"description": "Erkeklerin bel çevresinin 94cm'den büyük olması risklidir. Yeterli ve dengeli beslenerek, düzenli fiziksel aktivite yaparak boyunuza uygun ağırlığa ulaşmaya özen gösterin."
+	},
+	"3": {
+		"title": "Yüksek Riskli",
+		"description": "Erkeklerin bel çevresinin 102cm'den büyük olması şişmanlığın göstergesidir. Bu sağlığınız için risklidir. Lütfen bir sağlık kuruluşuna başvurunuz."
+	}
+}

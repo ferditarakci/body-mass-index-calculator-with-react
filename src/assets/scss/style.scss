@@ -1,0 +1,89 @@
+@import "root";
+
+.app {
+	position: relative;
+	width: 100vw;
+	min-height: 100vh;
+	padding: 2rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	>div {
+		position: relative;
+		padding: 2rem;
+		border-radius: .5rem;
+		color: var(--black);
+		background-color: white;
+	}
+}
+
+header {
+	h1 {
+		img {
+			display: block;
+			max-width: 100%;
+			margin: auto;
+			margin-bottom: 2rem;
+		}
+	}
+}
+
+.MuiTabs-flexContainer {
+	gap: 6px;
+
+	.MuiButtonBase-root {
+		border-radius: 4px;
+		background-color: var(--gray);
+	}
+
+	.Mui-selected {
+		background-color: var(--gray2);
+	}
+
+	@media (max-width: 768px) {
+		flex-wrap: wrap;
+
+		.MuiButtonBase-root {
+			flex: 0 0 calc(50% - 3px);
+		}
+
+		.MuiTabs-indicator {
+			display: none;
+		}
+	}
+}
+
+.btn {
+	height: 56px;
+	box-shadow: none;
+}
+
+.langs {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+
+	button {
+		overflow: hidden;
+		display: inline-flex;
+		margin: 0;
+		padding: 0;
+		border: none;
+		cursor: pointer;
+		border-radius: 3px;
+		appearance: none;
+		box-shadow: none;
+
+		+button {
+			margin-left: .5rem;
+		}
+	}
+
+	img {
+		display: block;
+		width: 42px;
+		height: auto;
+	}
+}
