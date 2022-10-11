@@ -24,11 +24,6 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="%REACT_APP_DOMAIN%/assets/images/favicon/icon-16x16.png">
 	<link rel="manifest" href="%REACT_APP_DOMAIN%/manifest.json">
 
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="preload" as="image" href="%REACT_APP_DOMAIN%/assets/images/my.jpg">
-	<link rel="preload" as="video" href="%REACT_APP_DOMAIN%/assets/video/freelance-front-end-developer.mp4" type="video/mp4">
-
 	<title>%REACT_APP_SEO_TITLE%</title>
 	<meta name="description" content="%REACT_APP_SEO_DESCRIPTION%">
 	<meta name="keywords" content="%REACT_APP_SEO_KEYWORDS%">
@@ -54,12 +49,13 @@
 	</div>
 
 	<% if (process.env.NODE_ENV === 'production') { %>
-		<script src="https://www.googletagmanager.com/gtag/js?id=UA-23038491-6" async></script>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-PMWEVJK99B"></script>
 		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag() { dataLayer.push(arguments) }
-			gtag('js', new Date());
-			gtag('config', 'UA-23038491-6');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-PMWEVJK99B');
 		</script>
 	<% } %>
 

@@ -1,9 +1,9 @@
 {
-	"name": "Ferdi Tarakçı - Frontend Web Developer",
-	"short_name": "Ferdi Tarakçı",
+	"name": "Body Mass Index Calculator",
+	"short_name": "BMI Calculator",
 	"scope": "/",
 	"start_url": "/",
-	"theme_color": "#da3d43",
+	"theme_color": "#5e7884",
 	"background_color": "#FFFFFF",
 	"display": "browser",
 	"orientation": "portrait",
