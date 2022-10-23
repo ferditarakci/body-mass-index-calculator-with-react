@@ -95,7 +95,7 @@ const ChildBodyMassIndex = () => {
 
 			const monthDiff = Math.round(((Date.now() - birthDate) / 1000 / 30 / 24 / 60 / 60))
 
-			var yearDiff = Math.round(monthDiff / 12)
+			const yearDiff = Math.round(monthDiff / 12)
 
 			if (yearDiff > 18) {
 				alert('yaşınız büyük')
