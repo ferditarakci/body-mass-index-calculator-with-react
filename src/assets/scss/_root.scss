@@ -1,38 +1,38 @@
 :root {
-	--font: 'Roboto', sans-serif;
-	--black: #2c2a2f;
-	--turquoise: #00a9ac;
-	--green: #1b9b00;
-	--yellow: #efaf03;
-	--orange: #ff6800;
-	--red: #e52a20;
-	--gray: #f7f7f7;
-	--gray2: #ebebeb;
+  --font: 'Roboto', sans-serif;
+  --black: #2c2a2f;
+  --turquoise: #00a9ac;
+  --green: #1b9b00;
+  --yellow: #efaf03;
+  --orange: #ff6800;
+  --red: #e52a20;
+  --gray: #f7f7f7;
+  --gray2: #ebebeb;
 }
 
 * {
-	margin: 0;
-	padding: 0;
-	outline: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
 }
 
 html {
-	font-size: 14px;
+  font-size: 14px;
 
-	@media (min-width: 576px) {
-		font-size: 16px;
-	}
+  @media (min-width: 576px) {
+    font-size: 16px;
+  }
 }
 
 body {
-	font-size: 1rem;
-	color: white;
-	background-color: var(--black);
+  font-size: 1rem;
+  color: white;
+  background-color: var(--black);
 
-	+div {
-		display: none !important;
-	}
+  + div {
+    display: none !important;
+  }
 }
 
 body,
@@ -46,10 +46,10 @@ input,
 select,
 textarea,
 button {
-	font-family: var(--font);
+  font-family: var(--font);
 }
 
 a {
-	color: inherit;
-	text-decoration: none;
+  color: inherit;
+  text-decoration: none;
 }

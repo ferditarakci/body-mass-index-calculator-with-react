@@ -1,22 +1,22 @@
 {
-	"1": {
-		"title": "Çok Zayıf",
-		"description": "Çocuğunuz yaşına göre çok zayıf. Sağlık problemi veya beslenme bozukluğu olabilir. Lütfen, acilen bir sağlık kuruluşuna başvurunuz."
-	},
-	"2": {
-		"title": "Zayıf",
-		"description": "Çocuğunuz yaşına göre zayıf. Yetersiz ve dengesiz beslenme, emilim bozuklukları ve bazı hastalıklar zayıflığa yol açar ancak zayıflık, her zaman bir hastalık belirtisi olmayabilir, ailesel olarak da (genetik faktörler) ortaya çıkabilir. Çocuğunuz zayıflığının herhangi bir sağlık probleminden kaynaklanıp kaynaklanmadığını anlamak için lütfen bir sağlık kuruluşuna başvurunuz"
-	},
-	"3": {
-		"title": "Normal",
-		"description": "Çocuğunuz yaşına göre normal ağırlıktadır. Çocukluk ve ergenlik dönemi büyüme ve gelişmenin en hızlı olduğu dönemdir. Sağlıklı büyüme ve gelişme için çocuğunuz, besinlerle yeterli miktarda enerji, su, protein, karbonhidrat, yağ, vitaminler, mineraller vb. besin öğelerini almalıdır. Bunun için, bu dönemde yeterli ve dengeli beslenme alışkanlığının kazandırılması çok önemlidir."
-	},
-	"4": {
-		"title": "Fazla Kilolu",
-		"description": "Dikkat! Çocuğunuz yaşına göre fazla kilolu. Fazla kiloluluk önlem alınmazsa obeziteye dönüşebilir. Obezite ise ileriki yaşlarda ve yetişkinlik döneminde kalp-damar hastalıkları, diyabet, yüksek tansiyon vb. hastalıkların oluşmasına zemin hazırlar. Bu nedenle çocuğunuzun yaşına göre normal ağırlığa gelmesi için aile içinde beslenme alışkanlıklarınıza dikkat ediniz, kahvaltı yapmadan güne başlamayınız, öğün atlamayınız ve yeterli ve dengeli bir beslenme programı uygulayınız. Bunun için sağlık kuruluşundan destek alabilirsiniz. Bu arada çocuğunuzun aktivite düzeyini arttırması için yaş grubuna uygun oyuna veya spora yönlendirebilirsiniz."
-	},
-	"5": {
-		"title": "Şişman (Obez)",
-		"description": "Çocuğunuz yaşına göre olması gereken kilonun çok üstünde bulunmaktadır. Obezite günümüzde bir hastalık olarak kabul edilmekte ayrıca kalp-damar hastalıkları, diyabet, yüksek tansiyon vb. pek çok hastalığa zemin oluşturmaktadır. Çocuğunuzun yaşına ve boyuna göre normal ağırlığa ulaşması için uygun beslenme ve egzersiz programının planlanması için en kısa zamanda lütfen bir sağlık kuruluşuna başvurunuz."
-	}
+  "1": {
+    "title": "Çok Zayıf",
+    "description": "Çocuğunuz yaşına göre çok zayıf. Sağlık problemi veya beslenme bozukluğu olabilir. Lütfen, acilen bir sağlık kuruluşuna başvurunuz."
+  },
+  "2": {
+    "title": "Zayıf",
+    "description": "Çocuğunuz yaşına göre zayıf. Yetersiz ve dengesiz beslenme, emilim bozuklukları ve bazı hastalıklar zayıflığa yol açar ancak zayıflık, her zaman bir hastalık belirtisi olmayabilir, ailesel olarak da (genetik faktörler) ortaya çıkabilir. Çocuğunuz zayıflığının herhangi bir sağlık probleminden kaynaklanıp kaynaklanmadığını anlamak için lütfen bir sağlık kuruluşuna başvurunuz"
+  },
+  "3": {
+    "title": "Normal",
+    "description": "Çocuğunuz yaşına göre normal ağırlıktadır. Çocukluk ve ergenlik dönemi büyüme ve gelişmenin en hızlı olduğu dönemdir. Sağlıklı büyüme ve gelişme için çocuğunuz, besinlerle yeterli miktarda enerji, su, protein, karbonhidrat, yağ, vitaminler, mineraller vb. besin öğelerini almalıdır. Bunun için, bu dönemde yeterli ve dengeli beslenme alışkanlığının kazandırılması çok önemlidir."
+  },
+  "4": {
+    "title": "Fazla Kilolu",
+    "description": "Dikkat! Çocuğunuz yaşına göre fazla kilolu. Fazla kiloluluk önlem alınmazsa obeziteye dönüşebilir. Obezite ise ileriki yaşlarda ve yetişkinlik döneminde kalp-damar hastalıkları, diyabet, yüksek tansiyon vb. hastalıkların oluşmasına zemin hazırlar. Bu nedenle çocuğunuzun yaşına göre normal ağırlığa gelmesi için aile içinde beslenme alışkanlıklarınıza dikkat ediniz, kahvaltı yapmadan güne başlamayınız, öğün atlamayınız ve yeterli ve dengeli bir beslenme programı uygulayınız. Bunun için sağlık kuruluşundan destek alabilirsiniz. Bu arada çocuğunuzun aktivite düzeyini arttırması için yaş grubuna uygun oyuna veya spora yönlendirebilirsiniz."
+  },
+  "5": {
+    "title": "Şişman (Obez)",
+    "description": "Çocuğunuz yaşına göre olması gereken kilonun çok üstünde bulunmaktadır. Obezite günümüzde bir hastalık olarak kabul edilmekte ayrıca kalp-damar hastalıkları, diyabet, yüksek tansiyon vb. pek çok hastalığa zemin oluşturmaktadır. Çocuğunuzun yaşına ve boyuna göre normal ağırlığa ulaşması için uygun beslenme ve egzersiz programının planlanması için en kısa zamanda lütfen bir sağlık kuruluşuna başvurunuz."
+  }
 }
