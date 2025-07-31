@@ -1,267 +1,267 @@
 [
-	{
-		"name": "Genel",
-		"activities": [
-			{
-				"title": "Ayakta Durmak",
-				"value": 1.2
-			},
-			{
-				"title": "Uyumak",
-				"value": 1.2
-			},
-			{
-				"title": "Okumak",
-				"value": 1.8
-			},
-			{
-				"title": "Yazı Yazmak (El ile)",
-				"value": 1.8
-			},
-			{
-				"title": "Yazı Yazmak (Bilgisayar ile)",
-				"value": 1.4
-			},
-			{
-				"title": "Telefonda Konuşmak",
-				"value": 0.9
-			},
-			{
-				"title": "Televizyon İzlemek",
-				"value": 1.3
-			},
-			{
-				"title": "Araba Kullanmak",
-				"value": 1.9
-			},
-			{
-				"title": "Araba Tamir Etmek",
-				"value": 3.1
-			},
-			{
-				"title": "Bahçe İşleri",
-				"value": 5.0
-			},
-			{
-				"title": "Ağaç Dikmek",
-				"value": 4.5
-			},
-			{
-				"title": "Marangoz İşleri (Hafif)",
-				"value": 3.1
-			},
-			{
-				"title": "Gıda Alışverişi Yapmak",
-				"value": 2.4
-			},
-			{
-				"title": "Gıda Dışı Alışveriş Yapmak (Gezerek)",
-				"value": 2.1
-			},
-			{
-				"title": "Merdiven İnip Çıkmak",
-				"value": 7.8
-			}
-		]
-	},
-	{
-		"name": "Ev İçi Aktiviteler",
-		"activities": [
-			{
-				"title": "Yemek Pişirmek",
-				"value": 2.5
-			},
-			{
-				"title": "Yemek Yemek (Oturarak)",
-				"value": 1.4
-			},
-			{
-				"title": "Bulaşık Yıkamak",
-				"value": 2.1
-			},
-			{
-				"title": "Badana Yapmak",
-				"value": 4.5
-			},
-			{
-				"title": "Temizlik Yapmak",
-				"value": 3.6
-			},
-			{
-				"title": "Yer Silmek (El iLe, Diz Üstünde)",
-				"value": 5.5
-			},
-			{
-				"title": "Cam Silmek",
-				"value": 3.5
-			},
-			{
-				"title": "Çamaşır Yıkamak (Makine ile) ve Asmak",
-				"value": 1.9
-			},
-			{
-				"title": "Yatak Toplamak",
-				"value": 1.9
-			},
-			{
-				"title": "Ev İçinde Mobilya Taşımak",
-				"value": 5.9
-			},
-			{
-				"title": "Ütü Yapmak",
-				"value": 2.1
-			},
-			{
-				"title": "Örgü Örmek",
-				"value": 1.4
-			},
-			{
-				"title": "Dikiş Dikmek (El ile)",
-				"value": 1.9
-			},
-			{
-				"title": "Dikiş Dikmek (Makine ile)",
-				"value": 2.4
-			}
-		]
-	},
-	{
-		"name": "Diğer Aktiviteler",
-		"activities": [
-			{
-				"title": "Balık Tutmak",
-				"value": 5.0
-			},
-			{
-				"title": "Dans Etmek",
-				"value": 4.5
-			},
-			{
-				"title": "Yürüyüş (Yavaş)",
-				"value": 4.8
-			},
-			{
-				"title": "Yürüyüş (Hızlı)",
-				"value": 7.0
-			},
-			{
-				"title": "Doğa Yürüyüşü",
-				"value": 5.9
-			},
-			{
-				"title": "Tepe Tırmanışı (5KG Yük ile)",
-				"value": 7.7
-			},
-			{
-				"title": "Tepe Tırmanışı (Yüksüz)",
-				"value": 7.2
-			},
-			{
-				"title": "Koşu",
-				"value": 7.8
-			}
-		]
-	},
-	{
-		"name": "Spor Dalları",
-		"activities": [
-			{
-				"title": "Aerobik (Orta Şiddette)",
-				"value": 5.9
-			},
-			{
-				"title": "Basketbol",
-				"value": 5.9
-			},
-			{
-				"title": "Futbol",
-				"value": 7.8
-			},
-			{
-				"title": "Hentbol",
-				"value": 7.8
-			},
-			{
-				"title": "Voleybol",
-				"value": 3.1
-			},
-			{
-				"title": "Paten Kaymak",
-				"value": 6.9
-			},
-			{
-				"title": "Kayak",
-				"value": 6.9
-			},
-			{
-				"title": "Kaykay",
-				"value": 5.0
-			},
-			{
-				"title": "Jogging",
-				"value": 7.0
-			},
-			{
-				"title": "Yüzme",
-				"value": 8.0
-			},
-			{
-				"title": "Masa Tenisi",
-				"value": 4.0
-			},
-			{
-				"title": "Tenis",
-				"value": 6.9
-			},
-			{
-				"title": "Squash",
-				"value": 11.9
-			},
-			{
-				"title": "Bisiklet (Orta Hızda)",
-				"value": 4.0
-			},
-			{
-				"title": "Golf",
-				"value": 4.5
-			},
-			{
-				"title": "Jimnastik",
-				"value": 4.0
-			},
-			{
-				"title": "Güreş",
-				"value": 5.9
-			}
-		]
-	},
-	{
-		"name": "Müzik Enstrümanı Çalmak",
-		"activities": [
-			{
-				"title": "Çello (Oturarak)",
-				"value": 1.9
-			},
-			{
-				"title": "Davul (Oturarak)",
-				"value": 4.0
-			},
-			{
-				"title": "Flüt Çalmak (Oturarak)",
-				"value": 1.9
-			},
-			{
-				"title": "Piyano (Oturarak)",
-				"value": 2.4
-			},
-			{
-				"title": "Gitar (Oturarak)",
-				"value": 1.9
-			},
-			{
-				"title": "Gitar (Ayakta)",
-				"value": 3.1
-			}
-		]
-	}
+  {
+    "name": "Genel",
+    "activities": [
+      {
+        "title": "Ayakta Durmak",
+        "value": 1.2
+      },
+      {
+        "title": "Uyumak",
+        "value": 1.2
+      },
+      {
+        "title": "Okumak",
+        "value": 1.8
+      },
+      {
+        "title": "Yazı Yazmak (El ile)",
+        "value": 1.8
+      },
+      {
+        "title": "Yazı Yazmak (Bilgisayar ile)",
+        "value": 1.4
+      },
+      {
+        "title": "Telefonda Konuşmak",
+        "value": 0.9
+      },
+      {
+        "title": "Televizyon İzlemek",
+        "value": 1.3
+      },
+      {
+        "title": "Araba Kullanmak",
+        "value": 1.9
+      },
+      {
+        "title": "Araba Tamir Etmek",
+        "value": 3.1
+      },
+      {
+        "title": "Bahçe İşleri",
+        "value": 5.0
+      },
+      {
+        "title": "Ağaç Dikmek",
+        "value": 4.5
+      },
+      {
+        "title": "Marangoz İşleri (Hafif)",
+        "value": 3.1
+      },
+      {
+        "title": "Gıda Alışverişi Yapmak",
+        "value": 2.4
+      },
+      {
+        "title": "Gıda Dışı Alışveriş Yapmak (Gezerek)",
+        "value": 2.1
+      },
+      {
+        "title": "Merdiven İnip Çıkmak",
+        "value": 7.8
+      }
+    ]
+  },
+  {
+    "name": "Ev İçi Aktiviteler",
+    "activities": [
+      {
+        "title": "Yemek Pişirmek",
+        "value": 2.5
+      },
+      {
+        "title": "Yemek Yemek (Oturarak)",
+        "value": 1.4
+      },
+      {
+        "title": "Bulaşık Yıkamak",
+        "value": 2.1
+      },
+      {
+        "title": "Badana Yapmak",
+        "value": 4.5
+      },
+      {
+        "title": "Temizlik Yapmak",
+        "value": 3.6
+      },
+      {
+        "title": "Yer Silmek (El iLe, Diz Üstünde)",
+        "value": 5.5
+      },
+      {
+        "title": "Cam Silmek",
+        "value": 3.5
+      },
+      {
+        "title": "Çamaşır Yıkamak (Makine ile) ve Asmak",
+        "value": 1.9
+      },
+      {
+        "title": "Yatak Toplamak",
+        "value": 1.9
+      },
+      {
+        "title": "Ev İçinde Mobilya Taşımak",
+        "value": 5.9
+      },
+      {
+        "title": "Ütü Yapmak",
+        "value": 2.1
+      },
+      {
+        "title": "Örgü Örmek",
+        "value": 1.4
+      },
+      {
+        "title": "Dikiş Dikmek (El ile)",
+        "value": 1.9
+      },
+      {
+        "title": "Dikiş Dikmek (Makine ile)",
+        "value": 2.4
+      }
+    ]
+  },
+  {
+    "name": "Diğer Aktiviteler",
+    "activities": [
+      {
+        "title": "Balık Tutmak",
+        "value": 5.0
+      },
+      {
+        "title": "Dans Etmek",
+        "value": 4.5
+      },
+      {
+        "title": "Yürüyüş (Yavaş)",
+        "value": 4.8
+      },
+      {
+        "title": "Yürüyüş (Hızlı)",
+        "value": 7.0
+      },
+      {
+        "title": "Doğa Yürüyüşü",
+        "value": 5.9
+      },
+      {
+        "title": "Tepe Tırmanışı (5KG Yük ile)",
+        "value": 7.7
+      },
+      {
+        "title": "Tepe Tırmanışı (Yüksüz)",
+        "value": 7.2
+      },
+      {
+        "title": "Koşu",
+        "value": 7.8
+      }
+    ]
+  },
+  {
+    "name": "Spor Dalları",
+    "activities": [
+      {
+        "title": "Aerobik (Orta Şiddette)",
+        "value": 5.9
+      },
+      {
+        "title": "Basketbol",
+        "value": 5.9
+      },
+      {
+        "title": "Futbol",
+        "value": 7.8
+      },
+      {
+        "title": "Hentbol",
+        "value": 7.8
+      },
+      {
+        "title": "Voleybol",
+        "value": 3.1
+      },
+      {
+        "title": "Paten Kaymak",
+        "value": 6.9
+      },
+      {
+        "title": "Kayak",
+        "value": 6.9
+      },
+      {
+        "title": "Kaykay",
+        "value": 5.0
+      },
+      {
+        "title": "Jogging",
+        "value": 7.0
+      },
+      {
+        "title": "Yüzme",
+        "value": 8.0
+      },
+      {
+        "title": "Masa Tenisi",
+        "value": 4.0
+      },
+      {
+        "title": "Tenis",
+        "value": 6.9
+      },
+      {
+        "title": "Squash",
+        "value": 11.9
+      },
+      {
+        "title": "Bisiklet (Orta Hızda)",
+        "value": 4.0
+      },
+      {
+        "title": "Golf",
+        "value": 4.5
+      },
+      {
+        "title": "Jimnastik",
+        "value": 4.0
+      },
+      {
+        "title": "Güreş",
+        "value": 5.9
+      }
+    ]
+  },
+  {
+    "name": "Müzik Enstrümanı Çalmak",
+    "activities": [
+      {
+        "title": "Çello (Oturarak)",
+        "value": 1.9
+      },
+      {
+        "title": "Davul (Oturarak)",
+        "value": 4.0
+      },
+      {
+        "title": "Flüt Çalmak (Oturarak)",
+        "value": 1.9
+      },
+      {
+        "title": "Piyano (Oturarak)",
+        "value": 2.4
+      },
+      {
+        "title": "Gitar (Oturarak)",
+        "value": 1.9
+      },
+      {
+        "title": "Gitar (Ayakta)",
+        "value": 3.1
+      }
+    ]
+  }
 ]

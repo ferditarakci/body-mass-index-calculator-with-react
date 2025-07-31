@@ -1,114 +1,114 @@
 {
-	"name": "Body Mass Index Calculator",
-	"short_name": "BMI Calculator",
-	"scope": "/",
-	"start_url": "/",
-	"theme_color": "#5e7884",
-	"background_color": "#FFFFFF",
-	"display": "browser",
-	"orientation": "portrait",
-	"icons": [
-		{
-			"src": "\/assets\/images\/favicon\/icon-16x16.png",
-			"sizes": "16x16",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-32x32.png",
-			"sizes": "32x32",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-36x36.png",
-			"sizes": "36x36",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-48x48.png",
-			"sizes": "48x48",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-57x57.png",
-			"sizes": "57x57",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-60x60.png",
-			"sizes": "60x60",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-72x72.png",
-			"sizes": "72x72",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-76x76.png",
-			"sizes": "76x76",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-96x96.png",
-			"sizes": "96x96",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-114x114.png",
-			"sizes": "114x114",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-120x120.png",
-			"sizes": "120x120",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-144x144.png",
-			"sizes": "144x144",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-152x152.png",
-			"sizes": "152x152",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-180x180.png",
-			"sizes": "180x180",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-192x192.png",
-			"sizes": "192x192",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-310x310.png",
-			"sizes": "310x310",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		},
-		{
-			"src": "\/assets\/images\/favicon\/icon-512x512.png",
-			"sizes": "512x512",
-			"type": "image\/png",
-			"purpose": "any maskable"
-		}
-	]
+  "name": "Body Mass Index Calculator",
+  "short_name": "BMI Calculator",
+  "scope": "/",
+  "start_url": "/",
+  "theme_color": "#5e7884",
+  "background_color": "#FFFFFF",
+  "display": "browser",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/images/favicon/icon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-57x57.png",
+      "sizes": "57x57",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-60x60.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-76x76.png",
+      "sizes": "76x76",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-114x114.png",
+      "sizes": "114x114",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-310x310.png",
+      "sizes": "310x310",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
